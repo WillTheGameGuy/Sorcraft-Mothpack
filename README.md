@@ -1,12 +1,12 @@
--- SorCraft MothPack 1.1 Public Release -- 
+--SorCraft MothPack 1.1 Public Release-- 
 
-Changes:
+--Change Log--
 
 Removed Chunk Animator
 
 Added Embers Rekindled
 
---Mod list is as follows:--
+--Mod list is as follows--
 
 Abyssal Craft
 
