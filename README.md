@@ -1,4 +1,8 @@
-- SorCraft MothPack 1.0 Public Release - 
+- SorCraft MothPack 1.1 Public Release - 
+
+Changes:
+Removed Chunk Animator
+Added Embers Rekindled
 
 Mod list is as follows:
 
@@ -32,8 +36,6 @@ Chisel
 
 Chisels and Bits
 
-Chunk Animator
-
 Clumps
 
 Code Chicken Lib
@@ -52,9 +54,11 @@ CTM
 
 Dynamic Trees
 
+Embers Rekindled
+
 Ender Storage
 
-Enggineers Decor
+Engineers Decor
 
 Extra Utilities 2
 
