@@ -1,7 +1,9 @@
 - SorCraft MothPack 1.1 Public Release - 
 
 Changes:
+
 Removed Chunk Animator
+
 Added Embers Rekindled
 
 Mod list is as follows:
